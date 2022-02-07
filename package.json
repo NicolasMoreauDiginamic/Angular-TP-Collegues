@@ -1,0 +1,17 @@
+{
+  "name": "collegues-console",
+  "version": "1.0.0",
+  "description": "Application console d'une administration Collegue",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Moreau Nicolas",
+  "license": "ISC",
+  "dependencies": {
+    "require": "^2.4.20"
+  }
+}
